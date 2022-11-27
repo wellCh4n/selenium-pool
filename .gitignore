@@ -1,0 +1,7 @@
+.DS_Store
+*.atn
+*.html
+*.class
+*.iml
+.idea/
+**/target/
